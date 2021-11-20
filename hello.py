@@ -1,0 +1,1 @@
+print("my best friend is lovely")
